@@ -1,3 +1,4 @@
+Elements non-formatting use:
 image	<img src = "link to image here" width = "pixel size" height = "pixel height"> 
 link	<a href = "website link">words to send to link here</a>
 paragr	<p>lalalala</p> 
@@ -7,9 +8,27 @@ heading	<h1>heading font here</h1>
 tabname	<title>lalala</title>
 meta	<head></head>
 forcss	<div class = "class name here" id = "or id here"></div>
+meta	<meta>
+prefor	<pre>preformatted text goes here</pre>
+
+
+Elements formatting use:
+bold	<b></b>
+italic	<i></i>
+strong 	<strong></strong>
+emphas	<em></em>
+small	<small></small>
+highli	<mark></mark>
+striket	<del></del>
 horzlin	<hr>
 break	<br>
-meta	<meta>
+underl	<ins></ins>
+subscr	<sub></sub>
+supscr	<sup></sup>
+quotat	<q></q>
+indquot	<blockquote></blockquote>
+
+
 
 Different attributes to include:
 alt = "text to help handicapped for image"
@@ -19,3 +38,21 @@ title = "rollover text seen as tooltip"
 href = "gives the url for a link"
 style = "specifies css style in the text"
 value = "specifies the text content for an input element"
+
+
+Styles:
+color:
+font-size: 		%
+text-align: 		left
+font-family: 		name
+
+padding: 		1px
+padding-top:
+margin: 		1px
+margin-right:
+border:			1px solid #color
+border-left:
+
+background-image:	url("")
+background-color:
+background-repeat:
