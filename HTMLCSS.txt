@@ -1,0 +1,21 @@
+image	<img src = "link to image here" width = "pixel size" height = "pixel height"> 
+link	<a href = "website link">words to send to link here</a>
+paragr	<p>lalalala</p> 
+body	<body></body>
+overall	<html></html>
+heading	<h1>heading font here</h1>
+tabname	<title>lalala</title>
+meta	<head></head>
+forcss	<div class = "class name here" id = "or id here"></div>
+horzlin	<hr>
+break	<br>
+meta	<meta>
+
+Different attributes to include:
+alt = "text to help handicapped for image"
+id = "id to refer to in css"
+class = "class to refer to in css"
+title = "rollover text seen as tooltip"
+href = "gives the url for a link"
+style = "specifies css style in the text"
+value = "specifies the text content for an input element"
